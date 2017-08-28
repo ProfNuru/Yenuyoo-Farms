@@ -1,0 +1,32 @@
+.productTitles{
+	font-size: 12px;
+}
+#navbar{
+	background-color: aliceblue;
+	bottom: 0px;
+	left: 12px;
+	clear: both;
+	margin: 0px;
+	padding-bottom: 7px;
+	width: 100%;
+	border: 2px solid darkgreen;
+}
+.sidebarTitle{
+	font-size: 12px;
+}
+.products{
+	width: 60%;
+}
+.slides div{
+	top: 120px;
+	left: 46px;
+}
+.productsWrapper{
+	bottom: -129px;
+}
+.contentImage{
+	width: 50%;
+}
+.contentSlides{
+	padding:10px;
+}

@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+}
+#slider{
+	border: 2px solid blue;
+	overflow: hidden;
+}
+#slider figure div{
+	border: 1px solid black;
+	padding: 50px;
+	width: 60%;
+	float: left;
+}
+#slider figure{
+	position: relative;
+	animation: 5s slidy infinite;
+}
+@keyframes slidy{
+	0%{
+		left: 0;
+	}
+	20%{
+		left: -100%;
+	}
+	40%{
+		left: -200%;
+	}
+	60%{
+		left: -300%;
+	}
+	80%{
+		left: -400%;
+	}
+	100%{
+		left: -500%;
+	}
+}

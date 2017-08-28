@@ -1,0 +1,38 @@
+#navbar{
+	background-color: aliceblue;
+	bottom: 0px;
+	left: 12px;
+	clear: both;
+	margin: 0px;
+	padding-bottom: 7px;
+	width: 100%;
+	border: 2px solid darkgreen;
+}
+#mainTitle{
+    font-size: 8px;
+    color: darkgreen;
+    margin: 0px 0px 0px 20px;
+    float: left;
+}
+.products{
+	width: 60%;
+}
+.productTitles{
+	font-size: 9px;
+}
+.sidebarTitle{
+	font-size: 10px;
+}
+.aboutImage{
+	width: 50%;
+}
+.contentSlides{
+	padding: 0px;
+}
+.slides div{
+	top: 120px;
+	left: 36px;
+}
+.productsWrapper{
+	bottom: -80px;
+}

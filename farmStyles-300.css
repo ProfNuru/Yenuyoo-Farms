@@ -1,0 +1,52 @@
+#navbar{
+	background-color: aliceblue;
+	bottom: 0px;
+	left: 12px;
+	clear: both;
+	margin: 0px;
+	padding-bottom: 7px;
+	width: 100%;
+	border: 2px solid darkgreen;
+}
+.navItems{
+	padding-left: 3px;
+	padding-right: 3px;
+}
+#mainTitle{
+    font-size: 5px;
+    border: 1px solid black;
+    margin: 0px 0px 0px 10px;
+}
+.smart-break{
+	display: inline-block;
+}
+.btn{
+	font-size: 8px;
+	padding: 0px;
+}
+.products{
+	width: 58%;
+}
+.productTitles{
+	font-size: 9px;
+}
+.sidebarTitle{
+	font-size: 10px;
+}
+#submit{
+	font-size: 8px;
+	padding: 0px;
+}
+.contentSlides{
+	padding: 0px;
+}
+.aboutImage{
+	width: 50%;
+}
+.slides div{
+	top: 120px;
+	left: 28px;
+}
+.productsWrapper{
+	bottom: -230px;
+}

@@ -1,0 +1,12 @@
+#slider{
+	overflow: hidden;
+}
+.slides{
+	width: 100%;
+}
+.slides img{
+	width: 100%;
+}
+.slides{
+	float: left;
+}
